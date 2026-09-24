@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# docusaurus
+/build
+/.docusaurus
+/.cache-loader
+
+# misc
+.DS_Store
+.env*
+npm-debug.log*
+pnpm-debug.log*
